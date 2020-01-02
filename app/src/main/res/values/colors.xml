@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+<!--Dark Primary colors-->
+    <color name="colorDark">#212121</color>
+    <color name="colorDarkPrimary">#000000</color>
+
+<!--Light Mode colors-->
+    <color name="backgroundColor">#fcfcfc</color>
+    <color name="cardBackground">#ffffff</color>
+    <color name="textColor">#808080</color>
+    <color name="tintColor">#000000</color>
+    <color name="buttonColor">#004B41</color>
+<!--Dark Mode colors-->
+    <color name="backgroundColorDark">#030303</color>
+    <color name="cardBackgroundDark">#424242</color>
+    <color name="textColorDark">#ffffff</color>
+    <color name="tintColorDark">#ffffff</color>
+    <color name="buttonColorDark">#00A493</color>
+
+</resources>
